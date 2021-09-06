@@ -21,6 +21,8 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  email_validator: ^2.0.1
+  credit_card_validator: ^2.0.0
   desktop_window: ^0.4.0
   flutter:
     sdk: flutter
